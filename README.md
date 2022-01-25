@@ -1,1 +1,1 @@
-# semantic_segmantation_pytorch
+Semantic segmentation with pytorch. Repository will update.
